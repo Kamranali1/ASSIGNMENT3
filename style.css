@@ -1,0 +1,177 @@
+.P{
+    font-size: 12px;
+}
+.B{
+    font-size: 15px;
+    border: solid 1px green;
+}
+.N{
+    background-color: white;
+    background-repeat: no-repeat;
+    background-image: url(saylani-logo.png);
+}
+.Nav{
+    margin-left: auto;
+}
+.div1{
+    background-image: url(saylani-logo.png) ;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    position: sticky;
+    top: 0px;
+}
+.para6{
+    display: inline-block;
+    color: rgba(3, 219, 3, 0.808);
+}
+.para7{
+    display: inline-block;
+    color: white;
+}
+.para8{
+    display: inline-block;
+    color: blue;
+}.Heading1{
+    color:  rgb(16, 111,  199);
+    display: inline-block;
+    padding-left: 400px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 50px;
+}
+.heading2{
+    display: inline-block;
+    color: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 50px;
+}
+.image1{
+    display: block;
+    margin: 0px auto;
+
+  }
+  .container5 {
+    text-align: justify;
+    width: 1000px;
+    margin-left: 230px;
+    opacity: 0.7;
+    line-height: 30px;
+}
+.dropdown:hover{
+    background-color: rgb(16, 111,  199);
+    color: white;
+    border: none;
+    padding-left: 20px;
+    border-radius: 10px;
+
+}
+.container2{
+    position: sticky;
+    top: 0px;
+}
+.Heading3{
+    color:  rgb(16, 111,  199);
+    display: inline-block;
+    padding-left: 300px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 50px;
+}
+
+.heading4{
+    display: inline-block;
+    color: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 50px;
+
+}
+.BOXES{
+    background-color: rgb(226, 243, 246);
+}
+.BOX1{
+    padding-top: 30px;
+    padding-left: 80px;
+    background-color: white;
+    width: 300px;
+    height: 130px;
+    margin-top: 30px;
+    margin-left: 50px;
+    display: inline-block;
+}
+.BOX2{
+    padding-top: 30px;
+    padding-left: 80px;
+    background-color: white;
+    width: 300px;
+    height: 130px;
+    margin-left: 50px;
+    margin-top: 30px;
+    display: inline-block;
+}
+.BOX3{
+    padding-top: 30px;
+    padding-left: 80px;
+    background-color: white;
+    width: 300px;
+    height: 130px;
+    margin-top: 30px;
+    margin-left: 50px;
+    display: inline-block;
+}
+.BOX4{
+    padding-top: 30px;
+    padding-left: 80px;
+    background-color: white;
+    width: 300px;
+    height: 130px;
+    margin-top: 30px;
+    margin-left: 50px;
+    display: inline-block;
+}
+.BOX5{
+    padding-top: 30px;
+    padding-left: 80px;
+    background-color: white;
+    width: 300px;
+    height: 130px;
+    margin-left: 50px;
+    margin-top: 30px;
+    display: inline-block;
+}
+.BOX6{
+    padding-top: 30px;
+    padding-left: 80px;
+    background-color: white;
+    width: 300px;
+    height: 130px;
+    margin-left: 50px;
+    margin-top: 30px;
+    display: inline-block;
+}
+.Image1{
+    
+    display: block;
+}
+.SEP{
+    width: 70px;
+    height: 3px;
+    background-color:green;
+    display: block;
+}
+.Box1{
+    margin-top: 30px;
+    background-color: rgb(226, 243, 246);
+    height: 70px;
+    width: 500px;
+    padding-left:120px ;
+    padding-top: 30px;
+}
+.Box2{ 
+    width: 300px;
+    margin-top: 50px;
+}
+.IMG2{
+    margin-top: 100px;
+    margin-left: 90px;
+}
+.IMG3{
+    margin-top: 100px;
+}
